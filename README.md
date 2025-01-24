@@ -9,7 +9,38 @@ The platform will be tested using **Postman** for API functionality.
 
 ## Tools
 - Backend Framework: SpringBoot
-- Tools: Kafka, HBase, Maven, JDK8
+- Tools: Kafka, HBase(User Info), MySQL(Merchant Info), Maven, JDK8
 - Cache: Redis
+
+## Main Structure
+- Cache Design
+- Utility
+- Log
+- Exception
+- DB
+
+## Merchant System
+
+### Function
+- Create Merchant
+- Release coupon
+
+### Package
+- constant -- constants definition
+- security -- interceptor
+- entity -- Merchant Entity Class
+- dao -- Merchant Data Access Object Interface
+- vo -- Value Object
+- service -- Merchant service interface and implementation
+
+## Customer System
+
+### Function
+- User - Coupon Function
+  User get coupon
+  User use coupon
+  Get user's usable 
+
+
 
 
