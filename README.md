@@ -26,10 +26,11 @@ The platform will be tested using **Postman** for API functionality.
 - Release coupon
 
 ### Merchant Package
-- constant -- constants definition
-- security -- interceptor
+- constant -- Define constants
+- controller -- Merchants services controller 
 - entity -- Merchant Entity Class
-- dao -- Merchant Data Access Object Interface
+- dao -- Merchant Data Access Object Interface: Interact with DB
+- security -- Interceptor
 - vo -- Value Object
 - service -- Merchant service interface and implementation
 
