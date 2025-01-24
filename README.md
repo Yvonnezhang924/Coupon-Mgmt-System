@@ -25,7 +25,7 @@ The platform will be tested using **Postman** for API functionality.
 - Create Merchant
 - Release coupon
 
-### Package
+### Merchant Package
 - constant -- constants definition
 - security -- interceptor
 - entity -- Merchant Entity Class
@@ -39,8 +39,11 @@ The platform will be tested using **Postman** for API functionality.
 - User - Coupon Function
   User get coupon
   User use coupon
-  Get user's usable 
-
+  Get user's usable coupons
+  Get user's used coupons
+  Get user's all coupons
+- Get Coupon Inventory
+- Give Feedback
 
 
 
