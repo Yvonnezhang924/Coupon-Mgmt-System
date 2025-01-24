@@ -37,11 +37,11 @@ The platform will be tested using **Postman** for API functionality.
 
 ### Function
 - User - Coupon Function
-  User get coupon
-  User use coupon
-  Get user's usable coupons
-  Get user's used coupons
-  Get user's all coupons
+  - User get coupon
+  - User use coupon
+  - Get user's usable coupons
+  - Get user's used coupons
+  - Get user's all coupons
 - Get Coupon Inventory
 - Give Feedback
 
